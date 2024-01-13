@@ -42,8 +42,8 @@
     "build": "react-scripts --openssl-legacy-provider build",
     "test": "react-scripts --openssl-legacy-provider test",
     "eject": "react-scripts --openssl-legacy-provider eject",
-    "predeploy": "npm run build --base=/aboutme/",
-    "deploy": "gh-pages -d dist"
+    "predeploy": "npm run build "
+    
   },
   "devDependencies": {
     "react-error-overlay": "6.0.9",
