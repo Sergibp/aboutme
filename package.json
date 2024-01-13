@@ -1,4 +1,5 @@
 {
+  "homepage": "https://sergibp.github.io/aboutme",
   "name": "portfolio-app",
   "version": "0.1.2",
   "private": true,
@@ -42,7 +43,8 @@
     "build": "react-scripts --openssl-legacy-provider build",
     "test": "react-scripts --openssl-legacy-provider test",
     "eject": "react-scripts --openssl-legacy-provider eject",
-    "predeploy": "npm run build "
+    "predeploy": "npm run build ",
+    "deploy": "gh-pages -d build"
     
   },
   "devDependencies": {
