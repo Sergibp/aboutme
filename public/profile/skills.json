@@ -1,0 +1,84 @@
+{
+    "intro": "I have a passion for learning new programming languages, \n especially those relevant to frontend development.",
+    "skills": [{
+     
+        "title": "Frameworks & Technologies",
+        "items" : [
+            {
+                "icon": "images/skills/android_new.png",
+                "title": "Android"
+            },
+            {
+                "icon": "images/skills/react.png",
+                "title": "React"
+            },
+            {
+                "icon": "images/skills/bootstrap.png",
+                "title": "Bootstrap"
+            },
+            {
+                "icon": "images/skills/nodejs.png",
+                "title": "Nodejs"
+            }
+        ]},
+
+        {
+            "title": "Languages & Databases",
+            "items" : [
+     
+                {
+                    "icon": "images/skills/java.png",
+                    "title": "Java"
+                },
+                {
+                    "icon": "images/skills/html.png",
+                    "title": "HTML"
+                },
+                {
+                    "icon": "images/skills/css.png",
+                    "title": "CSS"
+                },
+                {
+                    "icon": "images/skills/js.png",
+                    "title": "JavaScript"
+                },
+                {
+                    "icon": "images/skills/python.png",
+                    "title": "Python"
+                },
+                {
+                    "icon": "images/skills/mysql.png",
+                    "title": "MySQL"
+                }
+        ]
+        },
+        {
+            "title" : "Tools & Platforms",
+            "items": [
+                {
+                    "icon": "images/skills/android-studio.png",
+                    "title": "Android Studio"
+                },
+                {
+                    "icon": "images/skills/git.png",
+                    "title": "Git"
+                },
+                {
+                    "icon": "images/skills/swift.png",
+                    "title": "Swift UI"
+                },
+                {
+                    "icon": "images/skills/figma.png",
+                    "title": "Figma"
+                },
+                {
+                    "icon": "images/skills/photoshop.png",
+                    "title": "Photoshop"
+                },
+                {
+                    "icon": "images/skills/docker.png",
+                    "title": "Docker"
+                }
+            ]
+    }
+]}

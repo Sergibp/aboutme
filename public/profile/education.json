@@ -1,0 +1,19 @@
+{
+    "education":[
+        {
+            "title": "Oct 2020 - Jun 2023",
+            "cardTitle": "Development Web App",
+            "cardSubtitle":"IOC, Barcelona, Spain",
+            "cardDetailedText": "CGPA - 8.8",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": "Oct 2004 - Jun 2006",
+            "cardTitle": "Audiovisual Film School",
+            "cardSubtitle":"EMAV, Barcelona, Spain",
+            "cardDetailedText": "CGPA - 9.5"
+        }
+    ]
+}

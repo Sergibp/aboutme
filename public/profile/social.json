@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/sergio-barnes-0197a650/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/Sergibp"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:sergiobarnes@me.com"
+        }
+    ]
+}
