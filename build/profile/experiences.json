@@ -1,0 +1,32 @@
+{
+    "experiences": [
+        {
+            "title": "App Developer",
+            "subtitle": "ION SMART",
+            "workType": "Intern",
+            "workDescription": [
+                "I specialize in front-end development using React, contributing to projects on GitHub to create responsive and dynamic web applications."
+            ],
+            "dateText": "02/2023 – 05/2023"
+        },
+        {
+            "title": "UX/UI Designer and Web App Dev",
+            "subtitle": "Gavà City Council",
+            "workType": "Freelance",
+            "workDescription": [
+                "Work for Gavà City Council: website creation for user with real-time data."
+            ],
+            "dateText": "06/2021 – 09/2022"
+        },
+        {
+            "title": "Video editing and camera",
+            "subtitle": "Visual Group Films",
+            "workType": "Freelance",
+            "workDescription": [
+                "Production and design for streaming with OBS and Atem Blackmagic.",
+                "D.O.P"
+            ],
+            "dateText": "01/2020 – 12/2023"
+        }
+    ]
+}
